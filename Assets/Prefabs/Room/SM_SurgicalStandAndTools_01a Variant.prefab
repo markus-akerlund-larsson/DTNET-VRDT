@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4593285613589377586
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 813817330568660157, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.639
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.000000011175871
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.544
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5269525
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.8498947
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -116.40001
+      objectReference: {fileID: 0}
+    - target: {fileID: 5634555373840215972, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8676940710367550903, guid: 512431c3c03350e48907755549899f06, type: 3}
+      propertyPath: m_Name
+      value: SM_SurgicalStandAndTools_01a Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 512431c3c03350e48907755549899f06, type: 3}
